@@ -1,6 +1,9 @@
 # rsa-gen
 Generate RSA key pairs with user-defined key size
 
+## Install
+`go get github.com/zgiber/rsa-gen`
+
 ## Usage
 ```
 Usage of rsa-gen:
