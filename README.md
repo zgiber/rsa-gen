@@ -2,6 +2,9 @@
 
 Generate RSA key pairs with user-defined key size
 
+## Install
+`go get github.com/zgiber/rsa-gen`
+
 ## Usage
 
 Install by `go get github.com/zgiber/rsa-gen`.  
